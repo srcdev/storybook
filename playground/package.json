@@ -17,12 +17,12 @@
     "vue-router": "5.0.4"
   },
   "devDependencies": {
-    "@chromatic-com/storybook": "5.1.2",
+    "@chromatic-com/storybook": "5.2.1",
     "@nuxtjs/i18n": "10.2.4",
     "@nuxtjs/storybook": "workspace:*",
     "@storybook-vue/nuxt": "workspace:*",
-    "@storybook/addon-docs": "10.3.6",
-    "storybook": "10.3.6",
+    "@storybook/addon-docs": "10.4.3",
+    "storybook": "10.4.3",
     "vite-plugin-inspect": "11.3.3"
   }
 }
